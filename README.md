@@ -13,6 +13,6 @@ The files reproduce key statistical outputs but do **not** include raw MRI data.
 * **mriqc.sl** -runs MRI data quality check for each participant
 * **mriqc_group.sl** - generates a quality check report for the sample
 
-/
-* **Math_experiment.zip folder** contains code and stimuli for PMT experiment. Use Presentation software to launch it.
-* **fmri_log.zip folder** contains raw behavioral data from fMRI scanner. 
+
+ **Math_experiment.zip folder** contains code and stimuli for PMT experiment. Use Presentation software to launch it.\
+ **fmri_log.zip folder** contains raw behavioral data from fMRI scanner. 
