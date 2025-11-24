@@ -12,3 +12,5 @@ The files reproduce key statistical outputs but do **not** include raw MRI data.
 * **fmriprep_0.sl** - runs MRI pre-processing on BIDS data
 * **mriqc.sl** -runs MRI data quality check for each participant
 * **mriqc_group.sl** - generates a quality check report for the sample
+
+* **Math_experiment.zip folder** contains code and stimuli for PMT experiment. Use Presentation software to launch it.
